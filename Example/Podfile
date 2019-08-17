@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SkinSmoothingFilter_Example' do
+  pod 'SkinSmoothingFilter', :path => '../'
+
+  target 'SkinSmoothingFilter_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
