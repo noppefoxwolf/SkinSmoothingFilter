@@ -1,0 +1,16 @@
+PODS:
+  - SkinSmoothingFilter (0.1.0)
+
+DEPENDENCIES:
+  - SkinSmoothingFilter (from `../`)
+
+EXTERNAL SOURCES:
+  SkinSmoothingFilter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SkinSmoothingFilter: ac16ae27f680d4607c2662903b0d3acc8b8ec324
+
+PODFILE CHECKSUM: 16c320003692da268873f19fc71a2960ef35d601
+
+COCOAPODS: 1.7.5
