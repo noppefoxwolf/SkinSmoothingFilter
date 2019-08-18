@@ -1,10 +1,5 @@
 # SkinSmoothingFilter
 
-[![CI Status](https://img.shields.io/travis/noppefoxwolf/SkinSmoothingFilter.svg?style=flat)](https://travis-ci.org/noppefoxwolf/SkinSmoothingFilter)
-[![Version](https://img.shields.io/cocoapods/v/SkinSmoothingFilter.svg?style=flat)](https://cocoapods.org/pods/SkinSmoothingFilter)
-[![License](https://img.shields.io/cocoapods/l/SkinSmoothingFilter.svg?style=flat)](https://cocoapods.org/pods/SkinSmoothingFilter)
-[![Platform](https://img.shields.io/cocoapods/p/SkinSmoothingFilter.svg?style=flat)](https://cocoapods.org/pods/SkinSmoothingFilter)
-
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
