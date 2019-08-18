@@ -6,6 +6,8 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
+iOS13+
+
 ## Installation
 
 SkinSmoothingFilter is available through [CocoaPods](https://cocoapods.org). To install
