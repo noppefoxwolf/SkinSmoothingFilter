@@ -1,8 +1,10 @@
-# SkinSmoothingFilter
+![](https://github.com/noppefoxwolf/SkinSmoothingFilter/blob/master/.github/Logo.png)
 
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+![](https://github.com/noppefoxwolf/SkinSmoothingFilter/blob/master/.github/result.png)
 
 ## Requirements
 
